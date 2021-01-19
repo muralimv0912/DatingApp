@@ -1,0 +1,31 @@
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/women/98.jpg",true,1);
+
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/women/78.jpg",true,2);
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/women/67.jpg",true,3);
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/women/1.jpg",true,4);
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/women/29.jpg",true,5);
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/men/9.jpg",true,6);
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/men/72.jpg",true,7);
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/men/46.jpg",true,8);
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/men/61.jpg",true,9);
+-- SQLite
+INSERT INTO Photos (Url, Ismain, AppUserId)
+VALUES ("https://randomuser.me/api/portraits/men/85.jpg",true,10);
